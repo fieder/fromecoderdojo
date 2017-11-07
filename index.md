@@ -1,5 +1,5 @@
 # Be cool, the only rule
-This is an open environment, we pledge to making participation in our community a harassment-free experience for everyone. It does not matter where do you come from, if you are girl or boy, rich or poor, or if you believe in god or if you practice any religion. We are cool
+This is an open environment, we pledge to making participation in our community a harassment-free experience for everyone. It does not matter where do you come from, if you are girl or boy, rich or poor, or if you believe in god or any religion. We are cool
 
 ## Have fun with us
 We want to take you on a learning journey to explore some of the cool stuff you can build on the internet
