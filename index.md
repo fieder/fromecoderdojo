@@ -6,6 +6,6 @@ We want to take you on a learning journey to explore some of the cool stuff you 
 
 ## My first website (HTML/CSS)
 This is a little demo of the work our **ninjas hacked** during the course on 4th of Nov 2017 @ Edventure
-*   [Felipe](http://druidalabs.com/ "Brush your teeth twice a day!").
 *   Agustin
+*   [Felipe](http://druidalabs.com/ "Brush your teeth twice a day!").
 *   Your name
