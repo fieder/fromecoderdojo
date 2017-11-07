@@ -5,7 +5,7 @@ This is an open environment, we pledge to making participation in our community 
 We want to take you on a learning journey to explore some of the cool stuff you can build on the internet
 
 ## My first website (HTML/CSS)
-This is a little demo of the work our **ninjas hacked** during the course on 4th of Nov 2017 @ Edventure
+This is a little demo of the work of some of the kids attending the course on 4th of Nov 2017 @ Edventure
 *   Agustin
-*   [Felipe](http://druidalabs.com/ "Brush your teeth twice a day!").
+*   [Felipe](http://druidalabs.com/ "Brush your teeth twice a day!")
 *   Your name
