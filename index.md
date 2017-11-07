@@ -9,3 +9,6 @@ This is a little demo of the work of some of the kids who came to the course on 
 *   Agustin
 *   [Felipe](http://druidalabs.com/ "Brush your teeth twice a day!")
 *   Your name
+
+### Contact 
+fromecoderdojo@gmail.com
