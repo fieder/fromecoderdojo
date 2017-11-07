@@ -13,11 +13,11 @@
 
     <header>
       <div class="container">
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-         <div class="container-logo">
+         <div style="text-align: center">
             <img src="https://user-images.githubusercontent.com/1662253/32494388-6814b71a-c3b9-11e7-98f0-b1aaac24dc49.jpg" width="200px"></img>
          </div>
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         <section id="downloads">
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
