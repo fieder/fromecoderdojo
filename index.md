@@ -14,3 +14,4 @@ We want to take you on a learning journey to explore some of the cool stuff you 
   	<a>Second course - coming on Feb 2018. Stay tuned!</a>
   </li>
 </ul>
+
