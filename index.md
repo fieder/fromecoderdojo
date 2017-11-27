@@ -1,11 +1,16 @@
 # Be cool, the only rule
-This is an open environment, we pledge to making participation in our community a harassment-free experience for everyone. It does not matter where do you come from, if you are girl or boy, rich or poor, or if you believe in god or any religion. We are cool
+This is an safe and friendly environment open to everyone who wants to learn. It does not matter where do you come from, if you are a girl or a boy, rich or poor, or if you believe in god or practice any religion. Be cool, that's the only rule to be part of this community.
 
 ## Have fun with us
 We want to take you on a learning journey to explore some of the cool stuff you can build on the internet
 
-## My first website (HTML/CSS)
-This is a little demo of the work our **ninjas hacked** during the course on 4th of Nov 2017 @ Edventure
-*   Agustin
-*   [Felipe](http://druidalabs.com/ "Brush your teeth twice a day!").
-*   Your name
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+  <li>
+  	<a>Second course - coming on Feb 2018. Stay tuned!</a>
+  </li>
+</ul>
