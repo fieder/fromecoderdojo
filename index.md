@@ -1,7 +1,7 @@
-# Be cool, the only rule
-This is an safe and friendly environment open to everyone who wants to learn. It does not matter where do you come from, if you are a girl or a boy, rich or poor, or if you believe in god or practice any religion. Be cool, that's the only rule to be part of this community.
+# Rule #1
+This is a safe and friendly environment open to everyone who wants to learn. It does not matter where do you come from, if you are a girl or a boy, rich or poor, or if you believe in god or religions. Just **be cool**, that's the only rule.
 
-## Have fun with us
+# Have fun with us
 We want to take you on a learning journey to explore some of the cool stuff you can build on the internet
 
 <ul>
