@@ -1,0 +1,95 @@
+body {
+font-family: sans-serif;
+background-color: black;
+}
+ 
+p {
+	color: #905f4b;
+}
+
+h1{
+	color: #905f4b;
+}
+
+ul.menu{
+	border-radius: 10px;
+	background-color: #92b81c;
+	padding: 10px;
+}
+
+ul.menu li {
+	list-style: none;
+	display: inline;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+ul.menu li a{
+	color: white;
+	text-decoration: none;
+}
+
+ul.menu li.selected{
+	color: #905f4b;
+}
+
+ul.menu li a:hover {
+	color: #99DDFF;
+	text-decoration: underline;
+}
+article{
+	float: left;
+	padding: 1em;
+}
+
+aside{
+	float: left;
+	border-style: solid;
+	box-shadow: 10px 10px 5px gray; 
+	padding: 15px;
+	background-color: #FFFFC0;
+	transition: all;
+	margin-left: 20px;
+	border-width: 1px;
+	border-radius: 1em;
+}
+
+aside:hover {
+	transition: 1s ease-in-out;
+	opacity: 0.5;
+}
+
+aside ul{
+	list-style-type: square;
+}
+
+table, th, td {
+	border: 1px solid white;
+	border-collapse: collapse;
+}
+
+tr{
+	background-color: silver;
+}
+
+th, td {
+	vertical-align: top;
+	padding: 0.5em;
+	text-align: left;
+}
+
+.background-felipe {
+	background: url("../images/stones.jpeg") no-repeat;
+	background-size: cover;
+}
+.believe-style {
+	color: #905f4b;
+	text-align: center;
+	margin: 10px;
+	 letter-spacing: 2px;
+	font-size: 2em;
+}
+/*
+#92b81c green
+#905f4b brown
+*/
