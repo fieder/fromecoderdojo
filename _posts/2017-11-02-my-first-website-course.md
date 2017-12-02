@@ -13,7 +13,7 @@ This is a little demo of the work our **ninjas hacked** during the first course 
 *   [Bas](/course-1/bas/index.html "Computers are not for only for games")
 *   [Felipe](/course-1/felipe/index.html "Brush your teeth twice a day!")
 *   [Fred](/course-1/fred/index.html "If you don't succeed, try again")
-*   [Jaggu](/course-1/felipe/index.html "Try eating vegetables every day")
+*   [Jaggu](/course-1/jaggu/index.html "Try eating vegetables every day")
 *   [Nico](/course-1/nico/index.html "Be nice to others")
 *   [Reuben](/course-1/reuben/index.html "Be yourself")
 *   [Rosa](/course-1/rosa/index.html "Go on computers more")

@@ -3,7 +3,7 @@ font-family: sans-serif;
 }
 
 h1{
-	color: indigo;
+	color: blue;
 }
 
 ul.menu{
@@ -62,7 +62,7 @@ table, th, td {
 }
 
 tr{
-	background-color: red;
+	background-color: silver;
 }
 
 td{
