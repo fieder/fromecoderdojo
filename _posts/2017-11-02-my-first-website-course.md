@@ -10,4 +10,6 @@ This is a little demo of the work our **ninjas hacked** during the first course 
 *   [Example](/course-1/example/index.html "Website example!")
 *   [Agustin](/course-1/agustin/index.html "Try eating a fruit every day")
 *   [Felipe](/course-1/felipe/index.html "Brush your teeth twice a day!")
+*   [Nico](/course-1/nico/index.html "Be nice to others")
+
 *   Your name
