@@ -19,15 +19,5 @@ if ( you.cool() == true ) {
 	return -1 
 }
 ```
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-  <li>
-  	<a>Second course - coming on Feb 2018. Stay tuned!</a>
-  </li>
-</ul>
-
+# Next course
+February 2018 - stay tuned! 
