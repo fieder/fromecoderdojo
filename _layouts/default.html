@@ -22,12 +22,9 @@
         <section id="downloads">
           {% if site.show_downloads %}
             {% for post in site.posts %}
-
-              <a href="{{ post.url }}"  class="btn">HTML / CSS</a>
-                    {% endfor %}
-
+              <a href="{{ post.url }}"  class="btn">{{post.label}}</a>
+            {% endfor %}
           {% endif %}
-            <a href="{{ post.url }}"  class="btn disabled">Javascript</a>
         </section>
       </div>
     </header>
