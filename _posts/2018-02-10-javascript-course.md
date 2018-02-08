@@ -21,12 +21,3 @@ My dynamic music player. This is a little demo of the work our **ninjas hacked**
 *   [Nico](/course-1/nico/index.html "Be nice to others")
 *   [Reuben](/course-1/reuben/index.html "Be yourself")
 *   [Rosa](/course-1/rosa/index.html "Go on computers more")
-
-"You are not always right!"
-"Try eating a fruit every day"
-"Computers are not for only for games"
-"Brush your teeth twice a day!"
-"If you don't succeed, try again"
-"Be nice to others"
-"Be yourself"
-"Go on computers more"
