@@ -6,6 +6,29 @@ h1{
 	color: green;
 }
 
+ul{
+	list-style: none;
+}
+
+#jsSpace{
+	border-radius: 5px;
+	border: solid 1px #dadada;
+	background-color: #dedede;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+.songListItem{
+	padding: 5px 10px;
+}
+.songListItem:hover{
+	cursor: pointer;
+	background-color: #000000;
+	color: white;
+}
+
 ul.menu{
 	border-radius: 10px;
 	background-color: black;
@@ -39,10 +62,9 @@ article{
 
 aside{
 	float: left;
-	background-color: #FFFFC0;
 	margin-left: 20px;
-//	box-shadow: 10px 10px 5px gray; 
-//	transition: all;
+	margin-top: 15px;
+	transition: all;
 }
 aside img{
 	border-width: 2px;

@@ -6,6 +6,19 @@ h1{
 	color: green;
 }
 
+ul{
+	list-style: none;
+}
+
+.songListItem{
+	padding: 5px;
+}
+
+.songListItem:hover{
+	cursor: pointer;
+	background-color: #dadada
+}
+
 ul.menu{
 	border-radius: 10px;
 	background-color: black;
@@ -41,16 +54,17 @@ aside{
 	float: left;
 	background-color: #FFFFC0;
 	margin-left: 20px;
-//	box-shadow: 10px 10px 5px gray; 
-//	transition: all;
+	box-shadow: 10px 10px 5px gray; 
+	transition: all;
 }
 aside img{
 	border-width: 2px;
 	border-radius: 5px;
 	border-style: solid;
 }
-/* 
+ 
 aside:hover {
+	margin-left: 100px;
 	transition: 1s ease-in-out;
 	opacity: 0.5;
 }
@@ -85,4 +99,3 @@ th, td {
 	text-shadow: 1px 2px 5px white;
 	font-size: 30px; 
 }
-*/
