@@ -1,8 +1,5 @@
-# Next course - open!
-Javacript - 10th February 2018 9:30 to 11:30
-
-[Register here](https://zen.coderdojo.com/dojo/56a2e0af-ee0d-48de-b935-cffa14e3cc7e/event/1bab7c41-b854-451d-86db-c241a88cc591)
-
+# Next course - soon!
+First Saturday of April. Registration link will be published once confirmed. Stay tuned.
 
 # Rule #1
 This is a safe and friendly environment open to everyone who wants to learn. It does not matter where do you come from, if you are a girl or a boy, rich or poor. Just **be cool**, that's the only rule.

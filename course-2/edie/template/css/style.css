@@ -1,0 +1,18 @@
+#jsSpace{
+	border-radius: 5px;
+	border: solid 1px #dadada;
+	background-color: #dedede;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+.songListItem{
+	padding: 5px 10px;
+}
+.songListItem:hover{
+	cursor: pointer;
+	background-color: #642242;
+	color: white;
+}

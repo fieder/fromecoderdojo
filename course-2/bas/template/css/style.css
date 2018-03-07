@@ -1,0 +1,10 @@
+#jsSpace{
+	border-radius: 5px;
+	border: solid 1px #dadada;
+	background-color: purple;
+}
+
+ul {
+	liststyle: none;
+	padding: 0;
+}
