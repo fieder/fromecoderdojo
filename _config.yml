@@ -4,3 +4,6 @@ baseurl: ""
 show_downloads: true
 url: http://fromecoderdojo.org
 future: true 
+github: [metadata]
+title : fromecoderdojo
+description: Inspiring kids to be creative and have fun with the internet

@@ -1,5 +1,6 @@
-# Next course - soon!
-First Saturday of April. Registration link will be published once confirmed. Stay tuned.
+# Next course - algorithms!
+Apply here  [7th April 9:30 AM](https://zen.coderdojo.com/dojo/56a2e0af-ee0d-48de-b935-cffa14e3cc7e/event/ba460cb6-96b5-4143-b2a5-b2dce25437fe)
+
 
 # Rule #1
 This is a safe and friendly environment open to everyone who wants to learn. It does not matter where do you come from, if you are a girl or a boy, rich or poor. Just **be cool**, that's the only rule.
