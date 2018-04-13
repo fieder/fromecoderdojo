@@ -73,7 +73,7 @@ bubbleSort([-9,7,5,4,3,1]); //[-9, 1, 3, 4, 5, 7]
 
 
 #### Solution
-*   [code](https://1jsfiddle.net/fieder/ts34hoag "Try to solve it yourself first :) ")
+*   [code](https://jsfiddle.net/fieder/ts34hoag "Try to solve it yourself first :) ")
 
 
 ### More brain exercise
@@ -94,5 +94,5 @@ reverse('you are cool'); //"looc era uoy"
 ```
 
 #### Solution
-*   [code](https://1jsfiddle.net/fieder/g5kysbpw "Try to solve it yourself first :) ")
+*   [code](https://jsfiddle.net/fieder/g5kysbpw "Try to solve it yourself first :) ")
 
