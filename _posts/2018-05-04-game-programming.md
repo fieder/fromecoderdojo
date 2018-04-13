@@ -1,7 +1,7 @@
 ---
 title:  "Game programming"
-date:   2018-04-07 09:30:00 -0000
-categories: javascript kids
+date:   2018-05-04 09:30:00 -0000
+categories: game programming
 label: Game programming
 ---
 
