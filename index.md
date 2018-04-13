@@ -1,5 +1,5 @@
 # Next course - Game programming!
-Apply here  [4th May 9:30 AM](https://zen.coderdojo.com/dojo/56a2e0af-ee0d-48de-b935-cffa14e3cc7e/event/c2d697f1-7c37-47f2-b598-702fc80d9697)
+Apply here  [5th May 9:30 AM](https://zen.coderdojo.com/dojo/56a2e0af-ee0d-48de-b935-cffa14e3cc7e/event/c2d697f1-7c37-47f2-b598-702fc80d9697)
 
 
 # Rule #1
