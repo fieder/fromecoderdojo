@@ -1,5 +1,6 @@
-# Next course - Game programming!
-Apply here  [5th May 9:30 AM](https://zen.coderdojo.com/dojo/56a2e0af-ee0d-48de-b935-cffa14e3cc7e/event/c2d697f1-7c37-47f2-b598-702fc80d9697)
+# Next course - Kids fest!
+Apply here  [8th Sept 9:30 AM](https://havefunhub.com/index.html#event-building_a_festival_experience-137734)
+We'll give proper badges and certificates to those who finish the challenge. This is for intermediate/advanced level ideally.
 
 
 # Rule #1
