@@ -1,6 +1,6 @@
 # Next course - Kids fest!
-Apply here  [8th Sept 9:30 AM](https://havefunhub.com/index.html#event-building_a_festival_experience-137734)
-We'll give proper badges and certificates to those who finish the challenge. This is for intermediate/advanced level ideally.
+Apply here  [3rd Nov 9:30 AM](https://zen.coderdojo.com/dojos/gb/frome/frome-edventure)
+We'll give proper badges and certificates to those who finish the challenge. This course is aimed for intermediate/advanced levels.
 
 
 # Rule #1
