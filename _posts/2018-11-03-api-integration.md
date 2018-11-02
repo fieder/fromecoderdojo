@@ -7,6 +7,10 @@ label: API
 
 # Materials
 
+*   [Download course material](/course-5/example.zip "Download the starter pack")
+*   [Example](/course-5/index.html "This is an example")
+
+
 ## Server
 
 *   [core API documentation](https://test.havefunhub.com/api-doc "API documentation")
