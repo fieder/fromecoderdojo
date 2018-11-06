@@ -1,5 +1,5 @@
-# Next course - Kids fest!
-Apply here  [3rd Nov 9:30 AM](https://zen.coderdojo.com/dojos/gb/frome/frome-edventure)
+# Next course - API integration!
+Apply here  [1st Dec 9:30 AM](https://zen.coderdojo.com/events/2713b262-677d-4066-832a-078f5bc4d6c1/)
 We'll give proper badges and certificates to those who finish the challenge. This course is aimed for intermediate/advanced levels.
 
 
