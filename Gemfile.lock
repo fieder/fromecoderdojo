@@ -200,7 +200,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-titles-from-headings
 
 BUNDLED WITH
    1.16.0
