@@ -1,7 +1,7 @@
-# Next course - Kids fest!
-Apply here  [3rd Nov 9:30 AM](https://zen.coderdojo.com/dojos/gb/frome/frome-edventure)
-We'll give proper badges and certificates to those who finish the challenge. This course is aimed for intermediate/advanced levels.
-
+# Next courses - HTML & CSS!
+Part of the Remakery project in Frome we've got the following dates
+- [6th April 10 AM](https://www.eventbrite.co.uk/e/frome-coder-dojo-itv-peoples-project-tickets-58363327283)
+- [13th April 10 AM](https://www.eventbrite.co.uk/e/frome-coder-dojo-itv-peoples-project-2-tickets-58364715435)
 
 # Rule #1
 This is a safe and friendly environment open to everyone who wants to learn. It does not matter where do you come from, if you are a girl or a boy, rich or poor. Just **be cool**, that's the only rule.
