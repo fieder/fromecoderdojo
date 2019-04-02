@@ -1,0 +1,121 @@
+body {
+	font-family: sans-serif;
+	margin: 0;
+}
+
+h1 {
+//	color: red;
+}
+
+header {
+	background: yellow;
+}
+
+header img {
+	margin: 20px 0 0 20px;
+}
+
+ul.menu {
+	list-style: none;
+	//border-radius: 10px;
+	background-color: black;
+	padding: 10px;
+}
+
+ul.menu li {
+	list-style: none;
+	display: inline;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+ul.menu li a{
+	color: white;
+	text-decoration: none;
+}
+
+ul.menu li.selected{
+	color: yellow;
+}
+
+ul.menu li a:hover {
+	color: yellow;
+	text-decoration: underline;
+}
+
+article {
+	padding: 20px;
+	float: left;
+	margin-bottom: 50px;
+	width: calc(100% - 40px);
+}
+
+article a {
+	color: red;
+}
+
+table {
+	width: 100%;
+}
+
+table, th, td {
+	border: 1px solid white;
+	border-collapse: collapse;
+}
+
+
+table a {
+	color: yellow;
+	text-transform: none;
+}
+
+table img {
+	max-height: 30px;
+}
+
+tr {
+	background-color: silver;
+}
+
+th, td {
+	vertical-align: top;
+	padding: 5px;
+	text-align: left;
+}
+
+tbody {
+	text-transform: capitalize;
+}
+
+tbody td:last-child {
+	text-align: center;
+}
+
+table tfoot {
+	font-style: italic;
+	font-size: 12px;
+}
+
+.background-image {
+	background: url("../images/background.jpg") no-repeat;
+	background-size: cover;
+}
+
+footer{
+	position: fixed;
+	color: white;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background: #000000;
+	text-align: right;
+}
+
+footer p {
+	font-size: 11px;
+	padding: 5px 20px;
+}
+
+footer p span{
+	color: red;
+}
