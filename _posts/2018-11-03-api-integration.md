@@ -1,8 +1,9 @@
 ---
 title:  "API Integration"
 date:   2018-11-03 09:30:00 -0000
-categories: api kids
 label: API
+tags: api kids
+author: Agustin & Felipe
 ---
 
 # Materials

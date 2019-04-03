@@ -1,7 +1,8 @@
 ---
 title:  "Algorithms in Javascript"
 date:   2018-04-07 09:30:00 -0000
-categories: javascript kids
+tags: javascript kids
+author: Agustin & Felipe
 label: Algorithms
 ---
 

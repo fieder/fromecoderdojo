@@ -1,7 +1,8 @@
 ---
 title:  "My music player"
 date:   2018-02-10 09:30:00 -0000
-categories: javascript kids
+tags: javascript kids
+author: Agustin & Felipe
 label: JavaScript
 ---
 

@@ -1,7 +1,8 @@
 ---
 title:  "Game programming"
 date:   2018-05-04 09:30:00 -0000
-categories: game programming
+tags: game programming
+author: Agustin & Felipe
 label: Game programming
 ---
 

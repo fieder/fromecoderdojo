@@ -1,8 +1,8 @@
 ---
 title:  "Remakery HTML"
 date:   2019-04-06 10:00:00 -0000
-tags: html kids
 label: HTML
+tags: html kids
 author: Agustin & Felipe
 ---
 # Table of contents
