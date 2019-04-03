@@ -17,6 +17,7 @@ header img {
 
 ul.menu {
 	list-style: none;
+	border-radius: 10px;
 	background-color: black;
 	padding: 10px;
 }
@@ -60,6 +61,12 @@ table {
 table, th, td {
 	border: 1px solid white;
 	border-collapse: collapse;
+}
+
+
+table a {
+	color: yellow;
+	text-transform: none;
 }
 
 table img {
