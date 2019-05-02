@@ -5,6 +5,12 @@ label: HTML
 tags: html kids
 author: Agustin & Felipe
 ---
+# Showcase what kids did on the day :)
+
+*   [Josh](/course-6/josh/index.html "Josh's work")
+*   [Tilly](/course-6/tilly/index.html "Tilli's work")
+*   [Marley](/course-6/marley/index.html "Marley's work")
+
 # Table of contents
 1. [Introduction](#introduction)
 2. [HTML basics](#basics)

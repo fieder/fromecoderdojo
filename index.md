@@ -1,7 +1,6 @@
-# Next courses - HTML & CSS!
-Part of the Remakery project in Frome we've got the following dates
-- [6th April 10 AM](https://www.eventbrite.co.uk/e/frome-coder-dojo-itv-peoples-project-tickets-58363327283)
-- [13th April 10 AM](https://www.eventbrite.co.uk/e/frome-coder-dojo-itv-peoples-project-2-tickets-58364715435)
+# Next courses - Game programming II
+- [1st June 9.30 AM](https://zen.coderdojo.com/events/b2e6cff2-a7fd-4c02-b485-f7beae940df1/sessions)
+
 
 # Rule #1
 This is a safe and friendly environment open to everyone who wants to learn. It does not matter where do you come from, if you are a girl or a boy, rich or poor. Just **be cool**, that's the only rule.
