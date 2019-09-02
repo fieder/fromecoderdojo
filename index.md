@@ -1,5 +1,5 @@
-# Next course - Game programming II
-- [1st June 9.30 AM](https://zen.coderdojo.com/events/b2e6cff2-a7fd-4c02-b485-f7beae940df1/sessions)
+# Next course - API integration
+- [7th Sept 9.30 AM](https://zen.coderdojo.com/events/c268b412-7c0c-4d47-a8f6-ce27cc127f72)
 
 
 # Rule #1
