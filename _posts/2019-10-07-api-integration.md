@@ -18,9 +18,10 @@ If none of this makes sense to you, then come along and find out! :)
 
 ## Client
 
-*   [jsfiddle example](https://jsfiddle.net/adandreiz/3kdz86fs "Template")
-*    Browser console
-*    curl command	
+*   [jsfiddle example](https://jsfiddle.net/adandreiz/3kdz86fs/43/ "Template")
+*   [Browser console](#console)
+*   [curl command](#curl)	
+*   [Example](/course-8/tilly/index.html "Animals by Tilly"){:target="_blank"}
 
 
 ## Course #8
@@ -36,7 +37,7 @@ If none of this makes sense to you, then come along and find out! :)
 * HTTP response 
 
 ![](/course-5/HTTP-Response.png)
-
+<a id="curl">
 ```sh
 curl -X GET \
   https://dtawyo8d49.execute-api.us-east-1.amazonaws.com/test/animals \
@@ -46,6 +47,7 @@ curl -X GET \
   -H 'Connection: keep-alive' \
   -H 'Host: dtawyo8d49.execute-api.us-east-1.amazonaws.com' \
 ```
+
 * HTTP Response. JSON Representation
 
 ```json
@@ -76,10 +78,9 @@ curl -XPUT ....
 ```
 
 * Browser console
-
+<a id="console">
 ```sh
 https://www.bbc.co.uk/
-
 ```
 
 ### Playing time

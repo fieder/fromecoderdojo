@@ -1,0 +1,172 @@
+body {
+	font-family: comic sans MS;
+	margin: 0;
+	font-size: 21px;
+}
+
+h1 {
+	color: purple;
+}
+
+header {
+	background:turquoise;
+}
+
+header img {
+	
+//margin: 20px 0 0 20px;
+width: 100%;
+
+}
+
+ul.menu {
+	list-style: none;
+	border-radius: 10px;
+	background-color: orange;
+	padding: 10px;
+}
+
+ul.menu li {
+	list-style: none;
+	display: inline;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+ul.menu li a{
+	color: purple;
+	text-decoration: none;
+}
+
+ul.menu li.selected{
+	color: blue;
+}
+
+ul.menu li a:hover {
+	color: green;
+	text-decoration: underline;
+}
+
+article {
+	padding: 0 20px;
+	float: left;
+	margin-bottom: 50px;
+	width: calc(100% - 40px);
+}
+
+article a {
+	color: red;
+}
+
+table {
+	width: 100%;
+}
+
+table, th, td {
+	border: 1px solid white;
+	border-collapse: collapse;
+}
+
+
+table a {
+	color: yellow;
+	text-transform: none;
+}
+
+table img {
+	max-height: 30px;
+}
+
+tr {
+	background-color: silver;
+}
+
+th, td {
+	vertical-align: top;
+	padding: 5px;
+	text-align: left;
+}
+
+tbody {
+	text-transform: capitalize;
+}
+
+tbody td:last-child {
+	text-align: center;
+}
+
+table tfoot {
+	font-style: italic;
+	font-size: 12px;
+}
+
+.background-image {
+	background: url("https://user-images.githubusercontent.com/14906695/33398691-bac0fb64-d547-11e7-9ac9-4809f555bea5.png") no-repeat;
+	background-size: cover;
+}
+
+footer{
+	position: fixed;
+	color: white;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	background: #000000;
+	text-align: right;
+}
+
+footer p {
+	font-size: 11px;
+	padding: 5px 20px;
+}
+
+footer p span{
+	color: red;
+}
+
+.animals{
+	list-style: none;
+	padding-left: 0;
+	margin: 0;
+}
+.animals .box{
+	float: left;
+	width: calc(32% - 20px);
+	margin: 10px 10px 10px 0;
+	padding: 0 10px;
+	background: #000000;
+	border-radius: 20px;
+}
+.animals .box a{
+	text-decoration: none;
+}
+.animals .box h1 {
+	font-weight: 300;
+	font-size: 24px;
+	margin: 5px 0 5px 5px;
+	color: red;
+}
+.animals .box p {
+	font-weight: 300;
+	font-size: 18px;
+	color: #ffffff;
+}
+.animals .box:hover{
+	opacity: 0.9;
+	-webkit-box-shadow: 2px 2px 8px 3px rgba(0,0,0,0.75);
+	-moz-box-shadow: 2px 2px 8px 3px rgba(0,0,0,0.75);
+	box-shadow: 2px 2px 8px 3px rgba(0,0,0,0.75);
+}
+.animals .box img{
+	max-width: 100%;
+	border-radius: 10px;
+}
+
+@media only screen and (max-width: 720px) {
+	.animals {
+		padding: 0 20px 0 0;
+	}
+	.animals .box{
+		width: 100%;
+	}
+}
