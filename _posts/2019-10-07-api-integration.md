@@ -18,7 +18,7 @@ If none of this makes sense to you, then come along and find out! :)
 
 ## Client
 
-*   [jsfiddle example](https://jsfiddle.net/fieder/ "Template")
+*   [jsfiddle example](https://jsfiddle.net/adandreiz/3kdz86fs "Template")
 *    Browser console
 *    curl command	
 
@@ -38,9 +38,15 @@ If none of this makes sense to you, then come along and find out! :)
 ![](/course-5/HTTP-Response.png)
 
 ```sh
-GET https://amazon/animals
+curl -X GET \
+  https://dtawyo8d49.execute-api.us-east-1.amazonaws.com/test/animals \
+  -H 'Accept: */*' \
+  -H 'Accept-Encoding: gzip, deflate' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Host: dtawyo8d49.execute-api.us-east-1.amazonaws.com' \
 ```
-* JSON Representation
+* HTTP Response. JSON Representation
 
 ```json
 [{
@@ -78,4 +84,4 @@ https://www.bbc.co.uk/
 
 ### Playing time
 
-Let's try to integrate with the core API to find out more details about the data we consume
+Let's try to integrate with our animals API to find out more details about the data we consume
