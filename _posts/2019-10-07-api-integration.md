@@ -18,7 +18,7 @@ If none of this makes sense to you, then come along and find out! :)
 
 ## Client
 
-*   [jsfiddle example](https://jsfiddle.net/adandreiz/3kdz86fs/43/ "Template")
+*   [jsfiddle example](https://jsfiddle.net/adandreiz/3kdz86fs/45/ "Template")
 *   [Browser console](#console)
 *   [curl command](#curl)	
 *   [Example](/course-8/tilly/index.html "Animals by Tilly"){:target="_blank"}
