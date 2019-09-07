@@ -11,6 +11,10 @@ author: Agustin & Felipe
 In this class we are going to learn about web services exposed via REST entpoints. We will be using those to show how dynamic content is generated in the backend and we will build a simple HTML site to consume the information and show it to users via a browser.
 If none of this makes sense to you, then come along and find out! :)
 
+## Kids work
+*   [Nico](https://jsfiddle.net/70doc1bz/1/ "Animals by Nico"){:target="_blank"}
+*   [Bas](https://jsfiddle.net/3k8othuf/ "Animals by Bas"){:target="_blank"}
+*   [Edward](https://jsfiddle.net/t18bj4wm/1/ "Animals by Edward"){:target="_blank"}
 
 ## Server
 
