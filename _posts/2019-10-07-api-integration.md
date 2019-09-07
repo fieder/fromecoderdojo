@@ -12,7 +12,7 @@ In this class we are going to learn about web services exposed via REST entpoint
 If none of this makes sense to you, then come along and find out! :)
 
 ## Kids work
-*   [Nico](https://jsfiddle.net/70doc1bz/1/ "Animals by Nico"){:target="_blank"}
+*   [Nico](/course-8/nico/index.html "Animals by Nico"){:target="_blank"}
 *   [Bas](https://jsfiddle.net/3k8othuf/ "Animals by Bas"){:target="_blank"}
 *   [Edward](https://jsfiddle.net/t18bj4wm/1/ "Animals by Edward"){:target="_blank"}
 
