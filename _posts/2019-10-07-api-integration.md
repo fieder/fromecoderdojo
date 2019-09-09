@@ -13,8 +13,8 @@ If none of this makes sense to you, then come along and find out! :)
 
 ## Kids work
 *   [Nico](/course-8/nico/index.html "Animals by Nico"){:target="_blank"}
-*   [Bas](https://jsfiddle.net/3k8othuf/ "Animals by Bas"){:target="_blank"}
-*   [Edward](https://jsfiddle.net/t18bj4wm/1/ "Animals by Edward"){:target="_blank"}
+*   [Bas](/course-8/bas/index.html "Animals by Bas"){:target="_blank"}
+*   [Edward](/course-8/edward/index.html "Animals by Edward"){:target="_blank"}
 
 ## Server
 

@@ -1,15 +1,15 @@
 body {
-	font-family: Arial black;
+	font-family: comic sans MS;
 	margin: 0;
-	font-size: 24px;
+	font-size: 21px;
 }
 
 h1 {
-	color: green;
+	color: purple;
 }
 
 header {
-	background:maroon;
+	background:turquoise;
 }
 
 header img {
@@ -150,7 +150,7 @@ footer p span{
 .animals .box p {
 	font-weight: 300;
 	font-size: 18px;
-	color: pink;
+	color: #ffffff;
 }
 .animals .box:hover{
 	opacity: 0.9;
