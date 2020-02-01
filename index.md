@@ -1,5 +1,7 @@
-# Next course - API integration
-- [7th Sept 9.30 AM](https://zen.coderdojo.com/events/c268b412-7c0c-4d47-a8f6-ce27cc127f72)
+# Next course - Guide to your country - Website HTML
+- [1st Feb 9.30 AM](https://zen.coderdojo.com/events/cb683d8c-6db0-4a0a-94ae-6a1dcc724e76/sessions)
+
+- [Link to material](https://projects.raspberrypi.org/en/projects/cd-beginner-html-css-sushi/1)
 
 
 # Rule #1
