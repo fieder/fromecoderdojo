@@ -1,0 +1,61 @@
+body {
+  background-color: #cf142b;
+  font-family:"Times New Roman", serif;
+  color:Aqua;
+}
+
+h2 {
+  color:#61c6f5;
+}
+h6 {
+  color:Black;
+}
+nav ul{
+  background-color: Lime;
+  margin-right:20px;
+  margin-left:20px;
+  border-style: solid;
+  border-color: Yellow;
+  border-width: 4px;
+  padding: 6px;
+  list-style:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: PaleTurquoise;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: purple;
+}
+td {
+  color: purple;
+}
+/********************************/
