@@ -1,5 +1,5 @@
 # Next course - Guide to your country - Website HTML
-- [1st Feb 9.30 AM](https://zen.coderdojo.com/events/cb683d8c-6db0-4a0a-94ae-6a1dcc724e76/sessions)
+- [7th March 9.30 AM](https://zen.coderdojo.com/events/f0050c87-d8ea-40c0-9567-b80c5c33dd55/)
 
 - [Link to material](https://projects.raspberrypi.org/en/projects/cd-beginner-html-css-sushi/1)
 
